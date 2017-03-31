@@ -1,11 +1,6 @@
-C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;G:\adt-bundle-windows-x86_64-20140702\sdk\platform-tools;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\Doctrine extensions for PHP\;C:\Program Files\nodejs\;G:\adt-bundle-windows-x86_64-20140702\sdk\build-tools;G:\adt-bundle-windows-x86_64-20140702\eclipse\plugins;G:\adt-bundle-windows-x86_64-20140702\sdk\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Python27;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_111\bin;C:\Program Files\Java\jdk1.8.0_111\jre\bin;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\AppData\Local\atom\bin;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files\Docker Toolbox;;C:\Python27;c:\Python27\scripts;C:\Windows\System32\wbem;C:\Windows\System32;;C:\Python27;c:\Python27\scripts;C:\Windows\System32\wbem;C:\Windows\System32;;C:\Python27;c:\Python27\scripts;C:\Windows\System32\wbem;C:\Windows\System32;;C:\Python27;c:\Python27\scripts;C:\Windows\System32\wbem;C:\Windows\System32;;C:\Python27;c:\Python27\scripts;C:\Windows\System32\wbem;C:\Windows\System32;;C:\Python27;c:\Python27\scripts;C:\Windows\System32\wbem;C:\Windows\System32
-
-
-
-
-
-
-
+2017年3月30日16:36:34
+完成一个流程
+完成14条测试用例
 
 
 2017年3月3日17:12:11
