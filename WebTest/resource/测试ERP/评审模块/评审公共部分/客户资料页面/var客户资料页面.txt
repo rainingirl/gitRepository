@@ -5,7 +5,8 @@ Resource          产品信息页面/var填写授信额度页面.txt
 *** Variables ***
 #主要就是通过,推荐,拒绝
 # ${PassBtnXpath}    //*[@id="order_apply_sub_next"]/span    #通过的xpath
-${PassBtnID}      order_apply_sub_next    #第一次审核通过
+# ${PassBtnID}    order_apply_sub_next    #第一次审核通过
+${PassBtnXpath}    //div[@id='buttonsApplay']//div[@id='order_apply_sub_next']    #第一次审核通过
 ${BackID}         order_apply_sub_back    #退件
 # //*[@id="order_apply_sub_back"]/span
 ${RefuseID}       order_apply_sub_dead    #拒绝
@@ -14,7 +15,7 @@ ${RefuseID}       order_apply_sub_dead    #拒绝
 *** Keywords ***
 点击通过
     [Documentation]    通过,这是第一次审核,总部审核.前置条件,在总部审核-待处理客户-查看-客户资料页面
-    click element    ${PassBtnID}
+    click element    ${PassBtnXpath}
 
 点击退回
     [Documentation]    退回,这是第一次审核,总部审核.前置条件,在总部审核-待处理客户-查看-客户资料页面
