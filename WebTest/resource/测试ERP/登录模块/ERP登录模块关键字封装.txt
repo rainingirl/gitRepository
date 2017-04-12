@@ -8,6 +8,7 @@ Resource          ../ERP首页/varERP首页.txt
 登录ERP
     [Documentation]    登录ERP首页，验证码随意1111
     open browser    ${ERPLoginURL}    browser=chrome
+    Set Window Size    1366    768
     Maximize Browser Window
     Wait Until Page Contains Element    id=${selAccountID}    timeout=${timeOut}
     Click Element    ${selAccountID}

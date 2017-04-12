@@ -7,7 +7,7 @@ Resource          ../客户管理测试数据/data客户管理测试数据.txt
 *** Test Cases ***
 [tc1]: 确保点击意向客户按钮后，意向客户显示正确。
     [Documentation]    需要数据库支持，如果全部遍历的话，需要做接口测试
-    [Tags]    1    Done
+    [Tags]    Done    P1
     : FOR    ${i}    IN RANGE    1
     \    登录到意向客户页面
     \    Close Browser
